@@ -13,20 +13,20 @@
     "aspect": "fixed",
     "title": "EDA Insights and Statistical Summaries"
   },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;\" value=\"&amp;lt;font style=&amp;quot;font-size: 17px;&amp;quot;&amp;gt;Key Store&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"50\" width=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 50,
-    "h": 50,
-    "aspect": "fixed",
-    "title": "Keystore"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;\" value=\"&amp;lt;font style=&amp;quot;font-size: 17px;&amp;quot;&amp;gt;Data Storage&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"50\" width=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 50,
-    "h": 50,
-    "aspect": "fixed",
-    "title": "Data Storage"
-  },
+{
+  "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&lt;mxCell id=&quot;2&quot; parent=&quot;1&quot; style=&quot;html=1;whiteSpace=wrap;overflow=hidden;labelWidth=80;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;&quot; value=&quot;&amp;lt;font style=&amp;quot;font-size: 12px;&amp;quot;&amp;gt;Key Store&amp;lt;/font&amp;gt;&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry height=&quot;70&quot; width=&quot;80&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+  "w": 50,
+  "h": 50,
+  "aspect": "fixed",
+  "title": "Keystore"
+},
+{
+  "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&lt;mxCell id=&quot;2&quot; parent=&quot;1&quot; style=&quot;html=1;whiteSpace=wrap;overflow=hidden;labelWidth=80;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;&quot; value=&quot;&amp;lt;font style=&amp;quot;font-size: 12px;&amp;quot;&amp;gt;Data Storage&amp;lt;/font&amp;gt;&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry height=&quot;70&quot; width=&quot;80&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+  "w": 50,
+  "h": 50,
+  "aspect": "fixed",
+  "title": "Data Storage"
+},
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;\" value=\"&amp;lt;font style=&amp;quot;font-size: 17px;&amp;quot;&amp;gt;Cloud Storage&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"50\" width=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 50,
