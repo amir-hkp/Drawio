@@ -1,8 +1,8 @@
 <mxlibrary>[
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"swimlane;whiteSpace=wrap;html=1;\" value=\"&amp;lt;span style=&amp;quot;font-family: &amp;amp;quot;Times New Roman&amp;amp;quot;; font-size: 13px; font-weight: 400; text-wrap-mode: nowrap;&amp;quot;&amp;gt;Cloud Computing and Hosting Services&amp;lt;/span&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"160\" width=\"320\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 50,
-    "h": 50,
+    "w": 250,
+    "h": 250,
     "aspect": "fixed",
     "title": "Cloud Computing and Hosting Services"
   },
