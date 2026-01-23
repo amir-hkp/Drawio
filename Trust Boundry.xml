@@ -1,9 +1,0 @@
-<mxlibrary>[
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;\" value=\"&amp;lt;font face=&amp;quot;Times New Roman&amp;quot; style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;&amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp;Trust Boundry&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"180\" width=\"300\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 300,
-    "h": 180,
-    "aspect": "fixed",
-    "title": "Trust Boundry"
-  }
-]</mxlibrary>
