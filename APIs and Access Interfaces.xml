@@ -1,0 +1,14 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api;spacingTop=-5;\" value=\"API Gateway\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40.93\" width=\"42.63\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 42.63,
+    "h": 40.93,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" style=\"endArrow=classic;rounded=0;html=1;convertToSvg=0;movable=1;bendable=1;fixDash=1;fontSize=13;\" value=\"\"&gt;&lt;mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" y=\"50\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" connectable=\"0\" parent=\"2\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];whiteSpace=wrap;fixDash=1;fontSize=16;\" value=\"&amp;lt;span style=&amp;quot;font-family: &amp;amp;quot;Times New Roman&amp;amp;quot;;&amp;quot;&amp;gt;API&amp;lt;/span&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry relative=\"1\" x=\"0.0961\" y=\"2\" as=\"geometry\"&gt;&lt;mxPoint x=\"-7\" y=\"-3\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 50,
+    "aspect": "fixed"
+  }
+]</mxlibrary>
