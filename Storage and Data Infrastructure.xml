@@ -67,7 +67,7 @@
     "aspect": "fixed"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"swimlane;whiteSpace=wrap;html=1;\" value=\"&amp;lt;font style=&amp;quot;font-size: 16px;&amp;quot;&amp;gt;Cloud Computing and Hosting Services&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"270\" width=\"340\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&lt;mxCell id=&quot;2&quot; parent=&quot;1&quot; style=&quot;swimlane;whiteSpace=wrap;html=1;&quot; value=&quot;Cloud Computing &amp;amp; Hosting Services&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry height=&quot;270&quot; width=&quot;340&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 340,
     "h": 270,
     "aspect": "fixed"
