@@ -9,6 +9,17 @@ const normalize = (value) => value
   .replace(/\s+/g, " ")
   .trim();
 
+const setStyleValue = (style, key, value) => {
+  const expression = new RegExp(`(?:^|;)${key}=[^;]*;?`);
+  if (expression.test(style)) {
+    return style.replace(expression, (match) => {
+      const prefix = match.startsWith(";") ? ";" : "";
+      return `${prefix}${key}=${value};`;
+    });
+  }
+  return `${style}${style.endsWith(";") || !style ? "" : ";"}${key}=${value};`;
+};
+
 const libraries = [
   {
     filename: "Pipelines and Processes.xml",
@@ -57,6 +68,29 @@ for (const library of libraries) {
     );
     if (!replaced) {
       throw new Error(`Could not update the visible label for ${target.replacement}`);
+    }
+
+    let tagged = false;
+    entry.xml = entry.xml.replace(/&lt;mxCell\b(?:(?!&gt;)[\s\S])*?&gt;/g, (cellTag) => {
+      const valueMatch = cellTag.match(/\bvalue="([^"]*)"/);
+      const styleMatch = cellTag.match(/\bstyle="([^"]*)"/);
+      if (
+        !valueMatch ||
+        !styleMatch ||
+        normalize(valueMatch[1]) !== target.replacement
+      ) {
+        return cellTag;
+      }
+      tagged = true;
+      const style = setStyleValue(
+        styleMatch[1],
+        "astAssetLabel",
+        encodeURIComponent(target.replacement),
+      );
+      return cellTag.replace(styleMatch[0], `style="${style}"`);
+    });
+    if (!tagged) {
+      throw new Error(`Could not tag the canonical asset label for ${target.replacement}`);
     }
     changed.push(target.replacement);
   }
